@@ -10,7 +10,7 @@
 //!
 //! This crate supports all STM32WL devices; for the complete list please
 //! see:
-//! [stm32wl](https://github.com/stm32-rs/stm32-rs/tree/master/stm32wl)
+//! [stm32wl](https://crates.io/crates/stm32wl)
 //!
 //! Due to doc build limitations, not all devices may be shown on docs.rs;
 //! a representative few have been selected instead. For a complete list of
